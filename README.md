@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm 陈贞(Zhen Chan).
 
 <!--
 **awa-bot/awa-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
