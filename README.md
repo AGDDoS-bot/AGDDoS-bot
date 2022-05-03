@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=laamoKOkpqOsoKLV5OS79vr4" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AGDDoS-bot&repo=AGDDoS-bot&locale=cn&count_private=true)](/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGDDoS-bot&hide=html)](https://github.com/AGDDoS-bot)
