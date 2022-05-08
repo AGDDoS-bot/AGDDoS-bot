@@ -8,7 +8,7 @@ This account mainly runs all programs that require GitHub Actions.
 - 🔭 I’m currently working on @AGDDoS/core .
 - 🌱 I’m currently learning Golang.
 - 🤔 I’m looking for better you.
-- 💬 [How to use me?](https://github.com/AGDDoS-bot/AGDDoS-bot/blob/main/USAGE.md)
+- 💬 [How to use me?](USAGE.md)
 - 📫 Reach me: QQ3356136957
 
 ---
