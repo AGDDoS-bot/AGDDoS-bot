@@ -2,9 +2,9 @@
 
 > If you have any questions, please contact @xiaozhu2007 
 
-- 🔭 I’m currently working on @AGDDoS .
-- 🌱 I’m currently learning Japanese.
-- 🤔 I’m looking for help with you.
+- 🔭 I’m currently working on @AGDDoS/core .
+- 🌱 I’m currently learning Golang.
+- 🤔 I’m looking for better you.
 - 💬 [How to use me ?](usage.md)
 - 📫 Reach me: QQ3356136957
 ---
