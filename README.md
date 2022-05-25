@@ -1,5 +1,11 @@
 ### Hi there 👋, I'm 陈贞(Zhen Chan).
 
+<p align="center">
+  <a href="https://github.com/AGDDoS-bot">
+    <img src="https://ghchart.rshah.org/AGDDoS-bot" alt="AGDDoS-bot's Github chart" />
+  </a>
+</p>
+
 > If you have any questions, please contact @xiaozhu2007 
 
 Welcome to the actions account of **AGDDoS**. 
