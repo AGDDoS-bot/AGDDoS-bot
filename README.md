@@ -11,15 +11,13 @@
 Welcome to the actions account of **AGDDoS**. 
 This account mainly runs all programs that require GitHub Actions.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AGDDoS-bot&repo=AGDDoS-bot&locale=cn&count_private=true)
+
 - 🔭 I’m currently working on @AGDDoS/core .
-- 🌱 I’m currently learning Golang.
+- 🌱 I’m currently learning **JavaScript** and **Golang**.
 - 🤔 I’m looking for better you.
 - 💬 [How to use me?](USAGE.md)
-- 📫 Reach me: QQ3356136957
-
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AGDDoS-bot&repo=AGDDoS-bot&locale=cn&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGDDoS-bot)](https://github.com/AGDDoS-bot)
+- 📫 Reach me [here](https://github.com/AGDDoS-bot).
 
 ---
 来看看今天有什么新闻吧！
