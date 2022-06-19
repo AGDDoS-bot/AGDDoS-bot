@@ -24,4 +24,4 @@ This account mainly runs all programs that require GitHub Actions.
 
 或者来看看大家都关注什么(实时更新)
 
-![百度热搜榜](https://cdn.jsdelivr.net/gh/xiaozhu2007/ScreenShot@master/snap/baidu-top.png)
+![百度热搜榜](https://raw.fastgit.org/xiaozhu2007/ScreenShot/master/snap/baidu-top.png)
