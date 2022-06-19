@@ -20,3 +20,10 @@ This account mainly runs all programs that require GitHub Actions.
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AGDDoS-bot&repo=AGDDoS-bot&locale=cn&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGDDoS-bot)](https://github.com/AGDDoS-bot)
+
+---
+来看看今天有什么新闻吧！
+
+或者来看看大家都关注什么(实时更新)
+
+![百度热搜榜](https://cdn.jsdelivr.net/gh/xiaozhu2007/ScreenShot@master/snap/baidu-top.png)
