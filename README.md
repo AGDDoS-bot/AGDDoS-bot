@@ -1,27 +1,20 @@
-### Hi there 👋, I'm 陈贞(Zhen Chan).
+### Hi there 👋, I'm HelloTools 机器人.
 
 <p align="center">
-  <a href="https://github.com/AGDDoS-bot">
-    <img src="https://ghchart.rshah.org/AGDDoS-bot" alt="AGDDoS-bot's Github chart" />
+  <a href="https://github.com/HelloTools-bot">
+    <img src="https://ghchart.rshah.org/HelloTools-bot" alt="HelloTools-bot's Github chart" />
   </a>
 </p>
 
 > If you have any questions, please contact @xiaozhu2007 
 
-Welcome to the actions account of **AGDDoS**. 
+Welcome to the actions account of **HelloTools**. 
 This account mainly runs all programs that require GitHub Actions.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AGDDoS-bot&repo=AGDDoS-bot&locale=cn&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HelloTools-bot&repo=HelloTools-bot&locale=cn&count_private=true)
 
-- 🔭 I’m currently working on @AGDDoS/core .
+- 🔭 I’m currently working on @HelloTools/core .
 - 🌱 I’m currently learning **JavaScript** and **Golang**.
 - 🤔 I’m looking for better you.
 - 💬 [How to use me?](USAGE.md)
-- 📫 Reach me [here](https://github.com/AGDDoS-bot).
-
----
-来看看今天有什么新闻吧！
-
-或者来看看大家都关注什么(实时更新)
-
-![百度热搜榜](https://cdn.jsdelivr.net/gh/xiaozhu2007/ScreenShot@master/snap/baidu-top.png)
+- 📫 Reach me [here](https://github.com/HelloTools-bot).
