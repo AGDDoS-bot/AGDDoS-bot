@@ -1,4 +1,4 @@
-# 如何白嫖机器人账号？/ How to use `AGDDoS-bot`
+# 如何白嫖机器人账号？/ How to use `HelloTools-bot`
 
 ## 方法一
 
